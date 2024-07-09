@@ -1,0 +1,1 @@
+Create firebase project and copy the project setting template and paste to js file
